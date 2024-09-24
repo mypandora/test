@@ -21,6 +21,7 @@
     "node": "20.17.0"
   },
   "devDependencies": {
+    "@release-it/conventional-changelog": "^8.0.2",
     "release-it": "^17.6.0",
     "release-it-pnpm": "^4.6.3"
   }
